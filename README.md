@@ -1,0 +1,2 @@
+# Hybrid-Fuel-Cell-Thermoelectric-Generator-Energy-Monitoring-System-with-Independent-MPPT-Control
+Designed and simulated a hybrid Fuel Cell–Thermoelectric Generator (TEG) energy system in MATLAB Simulink with independent MPPT-controlled boost converters. Implemented real-time power monitoring, output power calculation, and dominant source identification for efficient renewable energy performance analysis.
