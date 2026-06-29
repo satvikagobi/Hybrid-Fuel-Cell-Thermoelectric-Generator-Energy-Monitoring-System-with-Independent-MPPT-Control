@@ -10,3 +10,4 @@ The project demonstrates the practical implementation of **renewable energy inte
 
 **Technologies & Skills:** MATLAB Simulink, MATLAB Function Blocks, Fuel Cell Modeling, Thermoelectric Generator (TEG), Perturb & Observe (P&O) MPPT, DC-DC Boost Converters, PWM Control, Power Electronics, Renewable Energy Systems, Hybrid Energy Systems, Real-Time Power Monitoring, Energy Management, Voltage and Current Measurement, Source Identification, Sustainable Energy Technologies.
 
+
